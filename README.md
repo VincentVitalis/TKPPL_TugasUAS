@@ -1,4 +1,4 @@
-# TKPPL_UAS
+# TKPPL_TugasUAS
 Tugas sebelum uas tkppl
 
 Nama Anggota:
